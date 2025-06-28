@@ -29,7 +29,7 @@ This project is a multi-agent debate system built using LangGraph and OpenAI's `
    Dependencies include `langgraph`, `langchain`, `langchain_openai`, `python-dotenv`, `graphviz`, `scikit-learn`, `rich`, and `tenacity`.
 
 4. **Configure API Key**:
-   - Create `.env` in the project root
+   - Create `.env` in the project root.
    - Add: `OPENAI_API_KEY=your-openai-api-key-here`.
 
 5. **Run the Script**:
